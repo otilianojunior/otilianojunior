@@ -8,6 +8,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=otilianojunior&show_icons=true" 
   />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otilianojunior&layout=compact&langs_count=7&theme=dracula"/>
 </picture>
 
 <div style="display: inline_block"><br>
