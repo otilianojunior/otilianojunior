@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/otilianojunior">
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otilianojunior&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=otilianojunior&layout=compact&langs_count=7&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otilianojunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=otilianojunior&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
